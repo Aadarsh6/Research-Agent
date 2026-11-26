@@ -1,0 +1,16 @@
+.git
+**/.venv
+**/venv
+**/__pycache__
+**/*.pyc
+**/node_modules
+**/dist
+**/.env
+**/.env.*
+**/*.db
+**/*.db-shm
+**/*.db-wal
+research/reports/*
+research/documents/*
+!research/reports/.gitkeep
+!research/documents/.gitkeep
